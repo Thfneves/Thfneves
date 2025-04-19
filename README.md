@@ -12,9 +12,13 @@
 
 </div>
 
-  Tenho 27 anos e estou em transição para a área de desenvolvimento de software. Possuo uma base sólida em lógica de programação e conhecimentos em Java, SQL e Python. No entanto, meu foco principal tem sido Swift, linguagem na qual venho me especializando nos últimos 8 meses para atuar como desenvolvedor iOS.
-  
-Tenho atuado diariamente em projetos e cursos para estar preparado para a primeira oportunidade, vou deixar abaixo um grafico que mostra um pouco da minha atuacao
+"Tenho 27 anos e estou em transição para a área de desenvolvimento de software. Tenho uma boa base em lógica de programação, Java, SQL e Python. No ultimo ano, venho me especializando em Swift para atuar como desenvolvedor iOS. 
+
+
+Como o mercado está competitivo e busca profissionais com mais experiência comprovada, estou expandindo meus conhecimentos para  🔵<strong>Flutter</strong>.
+
+
+Começando pelo aprendizado da linguagem  🔵 <strong>Dart</strong>. Tenho atuado diariamente em projetos e cursos para estar preparado para a primeira oportunidade, vou deixar abaixo um grafico que mostra um pouco da minha atuacao
 
 
 <div align="center">
